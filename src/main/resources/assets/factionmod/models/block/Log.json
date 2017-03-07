@@ -1,0 +1,7 @@
+{
+    "parent": "factionmod:block/cube_column",
+    "textures": {
+        "end": "factionmod:blocks/red/log_oak_top",
+        "side": "factionmod:blocks/red/log_oak"
+    }
+}

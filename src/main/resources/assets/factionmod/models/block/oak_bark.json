@@ -1,0 +1,6 @@
+{
+    "parent": "factionmod:block/cube_all",
+    "textures": {
+        "all": "factionmod:blocks/red/log_oak"
+    }
+}

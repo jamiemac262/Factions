@@ -1,0 +1,10 @@
+{
+	"forge_marker": 1,
+	"defaults" : {
+		"model": "factionmod:oak_log"
+	},
+	"variants":{ 
+		"normal": [{}],
+		"inventory": [{}]
+    }
+}

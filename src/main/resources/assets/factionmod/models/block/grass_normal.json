@@ -1,0 +1,9 @@
+{
+    "parent": "factionmod:block/grass",
+    "textures": {
+        "particle": "factionmod:blocks/red/dirt",
+        "bottom": "factionmod:blocks/red/dirt",
+        "top": "factionmod:blocks/red/grass_top",
+        "side": "factionmod:blocks/red/grass_side",
+    }
+}
